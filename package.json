@@ -1,0 +1,19 @@
+{
+  "name": "hubot-cybozulive-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "cron": "^1.0.9",
+    "moment": "^2.10.6",
+    "oauth": "^0.9.13",
+    "xml2js": "^0.4.12"
+  }
+}
